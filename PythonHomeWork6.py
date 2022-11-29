@@ -45,16 +45,6 @@
 # list = [randint(0, 10) for i in range(10)]
 # print(list)
 # my_list = [i for i in list if list.count(i)==1]
-# print(my_list)
-
-# Мое:
-# list = list(map(int, input("Введите числа через пробел:\n").split()))
-# print(list)
-# my_list = []
-
-# for i in list:
-#     if i not in my_list:
-#         my_list.append(i)
 
 # print(f"Список неповторяющихся элементов: {my_list}")
 
